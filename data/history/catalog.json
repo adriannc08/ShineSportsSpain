@@ -1,0 +1,667 @@
+{
+  "generatedAt": "2026-11-17T09:36:38.641Z",
+  "seasonsBySport": {
+    "futbol": [
+      "2025-2026",
+      "2024-2025",
+      "2023-2024",
+      "2022-2023",
+      "2021-2022",
+      "2020-2021",
+      "2019-2020",
+      "2018-2019",
+      "2017-2018",
+      "2016-2017",
+      "2015-2016",
+      "2014-2015",
+      "2013-2014",
+      "2012-2013",
+      "2011-2012",
+      "2010-2011",
+      "2009-2010",
+      "2008-2009",
+      "2007-2008",
+      "2006-2007",
+      "2005-2006",
+      "2004-2005",
+      "2003-2004",
+      "2002-2003",
+      "2001-2002",
+      "2000-2001",
+      "1999-2000",
+      "1998-1999",
+      "1997-1998",
+      "1996-1997",
+      "1995-1996",
+      "1994-1995",
+      "1993-1994"
+    ],
+    "baloncesto": [
+      "2025-2026",
+      "2024-2025",
+      "2023-2024",
+      "2022-2023",
+      "2021-2022",
+      "2020-2021",
+      "2019-2020",
+      "2018-2019",
+      "2017-2018",
+      "2016-2017",
+      "2015-2016",
+      "2014-2015",
+      "2013-2014",
+      "2012-2013",
+      "2011-2012",
+      "2010-2011",
+      "2009-2010",
+      "2008-2009",
+      "2007-2008",
+      "2006-2007",
+      "2004-2005",
+      "2003-2004",
+      "2002-2003",
+      "2001-2002",
+      "2000-2001",
+      "1999-2000",
+      "1998-1999",
+      "1997-1998",
+      "1996-1997",
+      "1995-1996",
+      "1994-1995",
+      "1993-1994",
+      "1992-1993",
+      "1991-1992",
+      "1990-1991",
+      "1989-1990",
+      "1988-1989",
+      "1987-1988",
+      "1986-1987",
+      "1985-1986",
+      "1984-1985",
+      "1983-1984"
+    ],
+    "balonmano": [
+      "2025-2026",
+      "2024-2025",
+      "2023-2024",
+      "2022-2023",
+      "2021-2022",
+      "2020-2021"
+    ]
+  },
+  "catalog": {
+    "futbol": [
+      {
+        "season": "1993-1994",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "1994-1995",
+        "champion": "Real Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "1995-1996",
+        "champion": "Atlético de Madrid",
+        "teamCount": 22,
+        "resultCount": 462,
+        "regularRounds": 42
+      },
+      {
+        "season": "1996-1997",
+        "champion": "Real Madrid",
+        "teamCount": 22,
+        "resultCount": 462,
+        "regularRounds": 42
+      },
+      {
+        "season": "1997-1998",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "1998-1999",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "1999-2000",
+        "champion": "Deportivo de La Coruña",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2000-2001",
+        "champion": "Real Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2001-2002",
+        "champion": "Valencia CF",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2002-2003",
+        "champion": "Real Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2003-2004",
+        "champion": "Valencia CF",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2004-2005",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2005-2006",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2006-2007",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2007-2008",
+        "champion": "Real Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2008-2009",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2009-2010",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2010-2011",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2011-2012",
+        "champion": "Real Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2012-2013",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2013-2014",
+        "champion": "Atlético de Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2014-2015",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2015-2016",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2016-2017",
+        "champion": "Real Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2017-2018",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2018-2019",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2019-2020",
+        "champion": "Real Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2020-2021",
+        "champion": "Atlético de Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2021-2022",
+        "champion": "Real Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2022-2023",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2023-2024",
+        "champion": "Real Madrid",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2024-2025",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      },
+      {
+        "season": "2025-2026",
+        "champion": "FC Barcelona",
+        "teamCount": 20,
+        "resultCount": 380,
+        "regularRounds": 38
+      }
+    ],
+    "baloncesto": [
+      {
+        "season": "1983-1984",
+        "champion": "Real Madrid",
+        "teamCount": 16,
+        "resultCount": 259,
+        "regularRounds": 28
+      },
+      {
+        "season": "1984-1985",
+        "champion": "Real Madrid",
+        "teamCount": 16,
+        "resultCount": 258,
+        "regularRounds": 28
+      },
+      {
+        "season": "1985-1986",
+        "champion": "Real Madrid",
+        "teamCount": 16,
+        "resultCount": 257,
+        "regularRounds": 28
+      },
+      {
+        "season": "1986-1987",
+        "champion": "FC Barcelona",
+        "teamCount": 16,
+        "resultCount": 262,
+        "regularRounds": 28
+      },
+      {
+        "season": "1987-1988",
+        "champion": "FC Barcelona",
+        "teamCount": 16,
+        "resultCount": 264,
+        "regularRounds": 28
+      },
+      {
+        "season": "1988-1989",
+        "champion": "FC Barcelona",
+        "teamCount": 24,
+        "resultCount": 491,
+        "regularRounds": 26
+      },
+      {
+        "season": "1989-1990",
+        "champion": "FC Barcelona",
+        "teamCount": 24,
+        "resultCount": 487,
+        "regularRounds": 38
+      },
+      {
+        "season": "1990-1991",
+        "champion": "FC Barcelona",
+        "teamCount": 24,
+        "resultCount": 494,
+        "regularRounds": 36
+      },
+      {
+        "season": "1991-1992",
+        "champion": "Joventut Badalona",
+        "teamCount": 24,
+        "resultCount": 498,
+        "regularRounds": 36
+      },
+      {
+        "season": "1992-1993",
+        "champion": "Real Madrid Teka",
+        "teamCount": 22,
+        "resultCount": 394,
+        "regularRounds": 31
+      },
+      {
+        "season": "1993-1994",
+        "champion": "Real Madrid Teka",
+        "teamCount": 20,
+        "resultCount": 336,
+        "regularRounds": 28
+      },
+      {
+        "season": "1994-1995",
+        "champion": "FC Barcelona Banca Catalana",
+        "teamCount": 20,
+        "resultCount": 412,
+        "regularRounds": 38
+      },
+      {
+        "season": "1995-1996",
+        "champion": "FC Barcelona Banca Catalana",
+        "teamCount": 20,
+        "resultCount": 411,
+        "regularRounds": 38
+      },
+      {
+        "season": "1996-1997",
+        "champion": "FC Barcelona Banca Catalana",
+        "teamCount": 18,
+        "resultCount": 341,
+        "regularRounds": 34
+      },
+      {
+        "season": "1997-1998",
+        "champion": "TDK Manresa",
+        "teamCount": 18,
+        "resultCount": 341,
+        "regularRounds": 34
+      },
+      {
+        "season": "1998-1999",
+        "champion": "FC Barcelona Banca Catalana",
+        "teamCount": 18,
+        "resultCount": 331,
+        "regularRounds": 34
+      },
+      {
+        "season": "1999-2000",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 335,
+        "regularRounds": 34
+      },
+      {
+        "season": "2000-2001",
+        "champion": "FC Barcelona",
+        "teamCount": 18,
+        "resultCount": 331,
+        "regularRounds": 34
+      },
+      {
+        "season": "2001-2002",
+        "champion": "TAU Cerámica",
+        "teamCount": 18,
+        "resultCount": 331,
+        "regularRounds": 34
+      },
+      {
+        "season": "2002-2003",
+        "champion": "FC Barcelona",
+        "teamCount": 18,
+        "resultCount": 332,
+        "regularRounds": 34
+      },
+      {
+        "season": "2003-2004",
+        "champion": "FC Barcelona",
+        "teamCount": 18,
+        "resultCount": 335,
+        "regularRounds": 34
+      },
+      {
+        "season": "2004-2005",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 336,
+        "regularRounds": 34
+      },
+      {
+        "season": "2006-2007",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 336,
+        "regularRounds": 34
+      },
+      {
+        "season": "2007-2008",
+        "champion": "TAU Cerámica",
+        "teamCount": 18,
+        "resultCount": 323,
+        "regularRounds": 34
+      },
+      {
+        "season": "2008-2009",
+        "champion": "Regal FC Barcelona",
+        "teamCount": 17,
+        "resultCount": 292,
+        "regularRounds": 34
+      },
+      {
+        "season": "2009-2010",
+        "champion": "Caja Laboral",
+        "teamCount": 18,
+        "resultCount": 326,
+        "regularRounds": 34
+      },
+      {
+        "season": "2010-2011",
+        "champion": "Regal FC Barcelona",
+        "teamCount": 18,
+        "resultCount": 324,
+        "regularRounds": 34
+      },
+      {
+        "season": "2011-2012",
+        "champion": "FC Barcelona Regal",
+        "teamCount": 18,
+        "resultCount": 329,
+        "regularRounds": 34
+      },
+      {
+        "season": "2012-2013",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 328,
+        "regularRounds": 34
+      },
+      {
+        "season": "2013-2014",
+        "champion": "FC Barcelona",
+        "teamCount": 18,
+        "resultCount": 329,
+        "regularRounds": 34
+      },
+      {
+        "season": "2014-2015",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 328,
+        "regularRounds": 34
+      },
+      {
+        "season": "2015-2016",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 328,
+        "regularRounds": 34
+      },
+      {
+        "season": "2016-2017",
+        "champion": "Valencia Basket Club",
+        "teamCount": 17,
+        "resultCount": 295,
+        "regularRounds": 34
+      },
+      {
+        "season": "2017-2018",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 327,
+        "regularRounds": 34
+      },
+      {
+        "season": "2018-2019",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 325,
+        "regularRounds": 34
+      },
+      {
+        "season": "2019-2020",
+        "champion": "Kirolbet Baskonia",
+        "teamCount": 18,
+        "resultCount": 238,
+        "regularRounds": 23
+      },
+      {
+        "season": "2020-2021",
+        "champion": "Barça",
+        "teamCount": 19,
+        "resultCount": 360,
+        "regularRounds": 38
+      },
+      {
+        "season": "2021-2022",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 327,
+        "regularRounds": 34
+      },
+      {
+        "season": "2022-2023",
+        "champion": "Barça",
+        "teamCount": 18,
+        "resultCount": 325,
+        "regularRounds": 34
+      },
+      {
+        "season": "2023-2024",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 326,
+        "regularRounds": 34
+      },
+      {
+        "season": "2024-2025",
+        "champion": "Real Madrid",
+        "teamCount": 18,
+        "resultCount": 325,
+        "regularRounds": 34
+      },
+      {
+        "season": "2025-2026",
+        "champion": "Valencia Basket",
+        "teamCount": 18,
+        "resultCount": 327,
+        "regularRounds": 34
+      }
+    ],
+    "balonmano": [
+      {
+        "season": "2020-2021",
+        "champion": "Barça",
+        "teamCount": 18,
+        "resultCount": 306,
+        "regularRounds": 34
+      },
+      {
+        "season": "2021-2022",
+        "champion": "Barça",
+        "teamCount": 16,
+        "resultCount": 240,
+        "regularRounds": 30
+      },
+      {
+        "season": "2022-2023",
+        "champion": "Barça",
+        "teamCount": 16,
+        "resultCount": 240,
+        "regularRounds": 30
+      },
+      {
+        "season": "2023-2024",
+        "champion": "Barça",
+        "teamCount": 16,
+        "resultCount": 240,
+        "regularRounds": 30
+      },
+      {
+        "season": "2024-2025",
+        "champion": "Barça",
+        "teamCount": 16,
+        "resultCount": 240,
+        "regularRounds": 30
+      },
+      {
+        "season": "2025-2026",
+        "champion": "Barça",
+        "teamCount": 16,
+        "resultCount": 240,
+        "regularRounds": 30
+      }
+    ]
+  }
+}

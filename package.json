@@ -1,0 +1,27 @@
+{
+  "name": "iberia-stats",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Dashboard interactivo de estadísticas históricas de la Liga EA Sports, Liga ACB y Liga ASOBAL.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "laliga",
+    "acb",
+    "asobal",
+    "sports",
+    "dashboard",
+    "express"
+  ],
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
